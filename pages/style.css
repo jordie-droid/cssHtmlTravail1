@@ -72,6 +72,13 @@ a{
     margin: auto;
   }
 
+  .monImageParent figcaption{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    color: #dddddd;
+  }
+
   img{
       height: 50%;
       width: 100%;
